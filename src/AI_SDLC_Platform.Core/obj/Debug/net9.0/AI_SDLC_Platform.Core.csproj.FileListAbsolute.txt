@@ -1,0 +1,11 @@
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.AssemblyInfoInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.AssemblyInfo.cs
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.csproj.CoreCompileInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\bin\Debug\net9.0\AI_SDLC_Platform.Core.deps.json
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\bin\Debug\net9.0\AI_SDLC_Platform.Core.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\bin\Debug\net9.0\AI_SDLC_Platform.Core.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\refint\AI_SDLC_Platform.Core.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\AI_SDLC_Platform.Core.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Core\obj\Debug\net9.0\ref\AI_SDLC_Platform.Core.dll

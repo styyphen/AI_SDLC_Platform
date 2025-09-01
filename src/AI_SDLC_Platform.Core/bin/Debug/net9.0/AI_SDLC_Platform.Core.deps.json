@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AI_SDLC_Platform.Core/1.0.0": {
+        "runtime": {
+          "AI_SDLC_Platform.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI_SDLC_Platform.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\bin\Debug\net9.0\AI_SDLC_Platform.Agents.deps.json
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\bin\Debug\net9.0\AI_SDLC_Platform.Agents.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\bin\Debug\net9.0\AI_SDLC_Platform.Agents.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\bin\Debug\net9.0\AI_SDLC_Platform.Core.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\bin\Debug\net9.0\AI_SDLC_Platform.Core.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.csproj.AssemblyReference.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.AssemblyInfoInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.AssemblyInfo.cs
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.csproj.CoreCompileInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_.7B04855E.Up2Date
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\refint\AI_SDLC_Platform.Agents.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\AI_SDLC_Platform.Agents.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Agents\obj\Debug\net9.0\ref\AI_SDLC_Platform.Agents.dll

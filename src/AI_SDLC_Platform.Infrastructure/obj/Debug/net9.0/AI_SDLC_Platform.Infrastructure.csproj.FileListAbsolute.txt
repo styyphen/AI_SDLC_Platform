@@ -1,0 +1,15 @@
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\bin\Debug\net9.0\AI_SDLC_Platform.Infrastructure.deps.json
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\bin\Debug\net9.0\AI_SDLC_Platform.Infrastructure.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\bin\Debug\net9.0\AI_SDLC_Platform.Infrastructure.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\bin\Debug\net9.0\AI_SDLC_Platform.Core.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\bin\Debug\net9.0\AI_SDLC_Platform.Core.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.csproj.AssemblyReference.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.AssemblyInfo.cs
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_.3A54770A.Up2Date
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\refint\AI_SDLC_Platform.Infrastructure.dll
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\AI_SDLC_Platform.Infrastructure.pdb
+C:\DEV\PROJECTS\CREATOR\AI_SDLC_Platform\src\AI_SDLC_Platform.Infrastructure\obj\Debug\net9.0\ref\AI_SDLC_Platform.Infrastructure.dll

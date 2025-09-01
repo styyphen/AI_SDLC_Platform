@@ -1,0 +1,34 @@
+@page "/dashboard"
+@inject HttpClient Http
+@using AI_SDLC_Platform.Core.Models
+
+<h3>AI SDLC Dashboard</h3>
+<button @onclick="CreateTask">Start New Task</button>
+<div>@Message</div>
+
+@code {
+    private string? Message { get; set; }
+
+    private async Task CreateTask()
+    {
+        try
+        {
+            var task = new TaskItem { Description = "doc: refine use cases" };
+            Message = "Sending POST to http://localhost:5000/api/tasks/assign...";
+            var request = new HttpRequestMessage(HttpMethod.Post, "api/tasks/assign");
+            request.Content = JsonContent.Create(task);
+            var response = await Http.SendAsync(request);
+            response.EnsureSuccessStatusCode();
+            var result = await response.Content.ReadFromJsonAsync<TaskItem>();
+            Message = $"Task completed: {result?.Completed}";
+        }
+        catch (HttpRequestException ex)
+        {
+            Message = $"HTTP Error: {ex.Message} (Status: {ex.StatusCode})";
+        }
+        catch (Exception ex)
+        {
+            Message = $"Error: {ex.Message}";
+        }
+    }
+}
