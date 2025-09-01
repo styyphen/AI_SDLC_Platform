@@ -8,13 +8,16 @@ namespace AI_SDLC_Platform.Agents
     {
         public string Name => "DeepSeek";
         public AgentRole Role => AgentRole.SystemDesign;
-
+        
         public async Task<TaskItem> ExecuteTaskAsync(TaskItem task)
         {
-            Console.WriteLine($"[DeepSeek] Creating system design for {task.Description}");
-            await Task.Delay(500);
-            task.Completed = true;
-            return task;
+            var result = new TaskItem
+            {
+                Title = $"Requirements refined: {task.Title}",
+                Description = $"[DeepSeek] Creating system design for : {task.Description}",
+                AgentTaskStatus = AgentTaskStatus.Complete
+            };
+            return await Task.FromResult(result);
         }
     }
 }

@@ -28,6 +28,7 @@ builder.Services.AddSingleton<IAgent, ClaudeAgent>();
 builder.Services.AddSingleton<IAgent, DeepSeekAgent>();
 builder.Services.AddSingleton<IAgent, CopilotAgent>();
 builder.Services.AddSingleton<IAgent, GrokAgent>();
+builder.Services.AddSingleton<IAgent, GeminiAgent>();
 
 var app = builder.Build();
 
