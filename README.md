@@ -160,3 +160,33 @@ AI agents act as specialized dev team.
 Git + API + dashboard tie everything together.
 
 Full SDLC (docs → design → code → tests → deploy) happens automatically.
+
+<img width="2324" height="890" alt="image" src="https://github.com/user-attachments/assets/f3969865-d49c-42c2-a3d7-4687471b1413" />
+
+sequenceDiagram
+    participant You as Human (Product Owner)
+    participant UI as Dashboard (Blazor Client)
+    participant API as Task Orchestrator (API)
+    participant Claude as Agent: Claude (Docs)
+    participant DeepSeek as Agent: DeepSeek (Design)
+    participant Copilot as Agent: Copilot (Code)
+    participant Grok as Agent: Grok (Code)
+    participant Repo as Git Repository
+    participant CI as CI/CD Pipeline
+
+    You->>UI: Create Task (e.g., "Implement login with JWT")
+    UI->>API: POST /api/tasks/assign
+    API->>Claude: Assign Documentation Task
+    Claude->>Repo: Commit /docs/use-cases.md
+    API->>DeepSeek: Assign Design Task
+    DeepSeek->>Repo: Commit /design/login-sequence.mmd
+    API->>Copilot: Assign Code Task
+    API->>Grok: Assign Code Task
+    Copilot->>Repo: Commit feature/auth-jwt branch
+    Grok->>Repo: Commit feature/auth-jwt branch
+    Repo->>Repo: Pull Request Created (feature/auth-jwt → main)
+    CI->>Repo: Run Build + Tests
+    CI-->>API: Report Test Results
+    API->>UI: Update Task Status (Completed ✅ or Failed ❌)
+    You->>UI: Approve Merge / Re-assign Fix
+
